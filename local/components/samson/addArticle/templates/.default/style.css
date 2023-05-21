@@ -1,0 +1,20 @@
+h1 {
+    margin-bottom: 20px;
+}
+input[type="text"],
+input[type="number"],
+input[type="submit"] {
+    margin-bottom: 15px;
+}
+input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 25px 25px;
+}
+.prod-wrapper {
+    display: none;
+}
+.main-wrapper,
+.prod-wrapper {
+    display: flex;
+}
